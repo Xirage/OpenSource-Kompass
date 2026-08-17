@@ -7,6 +7,8 @@ tags = ["open-source", "tools"]
 summary = "Eine laufend aktualisierte Liste von Open-Source-Programmen, sortiert danach, wie gut sie kommerzielle Alternativen wirklich ersetzen."
 +++
 
+huhuuuuuuu
+
 Kurze Einleitung: worum es in diesem Beitrag geht, für wen er gedacht ist, und dass die Liste laufend erweitert wird, sobald du neue Tools testest. Ein, zwei Sätze reichen hier.
 
 ## Wie ich die Einordnung meine
