@@ -1,4 +1,4 @@
-baseURL = "https://DEIN-USERNAME.github.io/DEIN-REPO-NAME/"
+baseURL = "https://xirage.github.io/OpenSource-Kompass/"
 languageCode = "de-de"
 title = "Dein Blogname"          # z.B. "Problemloeser" o.ä. - hier anpassen
 theme = "PaperMod"
