@@ -1,6 +1,6 @@
 baseURL = "https://xirage.github.io/OpenSource-Kompass/"
 languageCode = "de-de"
-title = "Dein Blogname"          # z.B. "Problemloeser" o.ä. - hier anpassen
+title = "OpenSource-Kompass"          # z.B. "Problemloeser" o.ä. - hier anpassen
 theme = "PaperMod"
 enableRobotsTXT = true
 
@@ -15,30 +15,15 @@ enableRobotsTXT = true
   TocOpen = false
   defaultTheme = "auto"          # hell/dunkel automatisch je nach Systemeinstellung
 
-[[menu.main]]
-  name = "Start"
-  url = "/"
-  weight = 1
+#[[menu.main]]
+#  name = "Start"
+#  url = "/"
+#  weight = 1
 
-[[menu.main]]
-  name = "Alle Beiträge"
-  url = "/posts/"
-  weight = 2
-
-[[menu.main]]
-  name = "Über mich"
-  url = "/about/"
-  weight = 3
-
-[[menu.main]]
-  name = "Impressum"
-  url = "/impressum/"
-  weight = 4
-
-[[menu.main]]
-  name = "Datenschutz"
-  url = "/datenschutz/"
-  weight = 5
+#[[menu.main]]
+#  name = "Alle Beiträge"
+#  url = "/posts/"
+#  weight = 2
 
 [taxonomies]
   category = "categories"
