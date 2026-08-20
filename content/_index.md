@@ -39,17 +39,24 @@ Ich habe die Apps und Programme immer in drei Kategorien eingeteilt, womit man u
 - Öffi NG (Kategorie: 1) Weiterentwicklung von Öffi mit sehr nützlichen zusätzlichen Features -> Nutze ich täglich und eine sehr schöne übersicht. Leider nicht auf F-Droid zu haben, sondern man muss die apk selber herunterladen
 ### Podcasts
 - AntennaPod (Kategorie: 1) Genau so sollte jede Social Media funktionieren. Jeder kann seinen eigenen Podcast betreiben und dann wird mit dem alten Protokoll und einem RSS Feed die neuen Folgen heruntergeladen -> Auch wieder vollkommen unabhängig von großen Plattformen. -> So sollte auch Youtube usw. funktionieren. Leider kamen die Plattform ideen zu spät
+### Fokus apps
+-Simple Time Tracker
+-Loop Habit Tracker
+-Tasks.org
 
 ## Computer/Laptop
 ### Navigation
 - Overpass Turbo (Kategorie: 1): Will man bestimmte speziellere Orte herausfinden ist Overpass Turbo unschlagbar, auch deutlich besser als jede Closed Source Alternative die ich kenne. Beispiel: Will man zb mit einem Schlauchboot/Kanu einen Fluss herunterfahren kommen einem regelmäßig Wehre und Dämme entgegen. Bei der Streckenplanung kann man jetzt Overpass Turbo mit einfachem Code nutzen (Heutzutage einfach mit KI erzeugbar) und zb den Fluss highlithen und alle Wasserkraftwerke, Wehre und Dämme im Umkreis darstellen. Unglaublich praktisch. Die Anzeigemöglichkeiten sind Grenzenlos.
-
-
-## Grundlegende Projekte
+## Allgemeines Projekte
 - openstreetmap (Kategorie: 1) Ein wahnsinnig cooles Projekt, genau so sollte es funktionieren Dezentrale, Open Source möglichkeit, die die ganze Welt kategoriesiert hat. 
-
+- Syncthing
+- Logseq
+### KI
+- Confer.to: Das ist eine KI vom Signal Gründer, die laut ihm komplett ende zu ende verschlüsselt ist. Sie funktioniert auch echt gut für sensible Anfragen, wo man auf Datenschutz achtet
+- Vibe/Mistral Ai/Le chat: Europäische/Französische Ai als Alternative zu den Amerikanischen
 ## Woher kommt das Wissen
 Das Interesse für Open Source (so viel wie ich mich erinnere) ist zu großen Teilen durch lesen der Biografie "Permanent Record" von Edward Snowden entstanden. Auch wo ich dann 2022 auf mein neues Handy das de-googelte und open source basierende Betriebsystem E/os installierte wurde das interesse immer größer. Seitdem versuche ich so gut es geht Open Source Apps und Programme zu nutzen und habe über die Zeit relativ viele Programme kennengelernt
+
 
 
 
