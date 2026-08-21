@@ -15,7 +15,7 @@ Ich habe die Apps und Programme immer in drei Kategorien eingeteilt, womit man u
 ---
 ## Handy/Smartphone
 ### Betriebssystem
-- e/os/ (Kategorie: 2)
+- e/os/ (Kategorie: 2): Kommt schon mit vielen guten vorinstallierten Apps, was den Umstieg vereinfacht. (Nutze auch E/os/) Oft gibt es aber deutlich bessere, deshalb hier dieser Artikel 
 - Graphene/os
 ### AppStore
 - F-droid (Kategorie: 2) Der OG der Open Source App Stores
@@ -30,13 +30,26 @@ Ich habe die Apps und Programme immer in drei Kategorien eingeteilt, womit man u
 ### Öffentlicher Verkehr
 - Öffi (Kategorie: 1-2)
 - Öffi NG (Kategorie: 1) Weiterentwicklung von Öffi mit sehr nützlichen zusätzlichen Features -> Nutze ich täglich und eine sehr schöne übersicht. Leider nicht auf F-Droid zu haben, sondern man muss die apk selber herunterladen
-### Fokus apps
+### Produktivität
 - Zeit aufzeichnen: Simple Time Tracker
 - Habits tracken: Loop Habit Tracker
 - To-do Liste: Tasks.org
+- Stepsy: Schritte zählen
 ### Mediennutzung
-- 
+- Musicolet: Meiner Meinung nach die beste App zum offline Musikhören für seine eigene mp3 Sammlung. Extrem viele nützliche Features wie zum Beispiel 20 parallele Warteschlangen (leider nicht im F-droid verfügbar, aber kein Internetzugriff nötig -> keine Daten werden gesendet)
+- Newpipe
 - Podcasts: AntennaPod (Kategorie: 1) Genau so sollte jede Social Media funktionieren. Jeder kann seinen eigenen Podcast betreiben und dann wird mit dem alten Protokoll und einem RSS Feed die neuen Folgen heruntergeladen -> Auch wieder vollkommen unabhängig von großen Plattformen. -> So sollte auch Youtube usw. funktionieren. Leider kamen die Plattform ideen zu spät
+- Aves: Klasse Galerie mit vielen Funktionen wie Tags, Orte, Datum bearbeiten usw.
+### Weiteres
+- Oinkoin: Gute Open Source App zum tracken seiner Ausgaben
+- Audile: Shazam Alternative um Lieder zu erkennen
+- Currencies: Einfacher, nützlicher Währungsrechner
+- Fairscan: Einfacher, nützlicher Dokumentenscanner
+- Shizuku: App um auf Root von Android zuzugreifen ohne Root aktivier haben zu müssen
+### Grundfunktionen
+- Aegis: Sehr gute 2FA App
+- Bitwarden: Sehr guter OS Passwort Manager
+- Keepass: Etwas aufwendiger aber komplett Lokaler Passwortmanager -> Mit Syncthing komplett unabhängig
 ---
 ## Computer/Laptop
 ### Navigation
