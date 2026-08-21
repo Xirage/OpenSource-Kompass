@@ -1,13 +1,6 @@
 +++
-title = "Die besten Open-Source-Alternativen: Was wirklich funktioniert"
-date = 2026-08-13
-draft = false
-categories = ["Software"]
-tags = ["open-source", "tools"]
-summary = "Eine laufend aktualisierte Liste von Open-Source-Programmen, sortiert danach, wie gut sie kommerzielle Alternativen wirklich ersetzen."
+title = "Das digitale Leben -> Komplett mit Open Source Software"
 +++
-
-# Das digitale Leben -> Komplett mit Open Source Software
 
 ## Einleitung
 Meiner Meinung nach ist das Internet, Programme und Apps aktuell ziemlich weit von dem Grundgedanke dass es früher hatte entfernt. Einer demokratisierung der Kommunikation. Aktuell werden die meisten Apps von großen Unternehmen mit fragwürdigen Interessen beherrscht. Open Source bietet dazu eine Gegenbewegung an. Mittlerweile gibt es auch sehr viele Programme/Apps die sehr gut funktionieren und manchmal so gar besser sind als ihre Closed Source Alternativen. Ich will mit dieser Seite einen kleinen Beitrag zur Verbreitung von Open Source Apps beitragen. Dabei ist sehr viel subjektiv und andere finden manche Apps vielleicht weniger oder mehr nützlich. Trotzdem möchte ich hier meine Subjektive Meinung darstellen und vielleicht dem ein oder anderen Inspiration zu neuen Apps geben. Sie ist offensichtlich natürlich vollständig und bei vielen Sachen kenne ich altenativen und bessere Dinge leider nicht, deshalb sehts mir nach und schreibt mir gerne eine Mail wenn ihr noch weitere coole Ideen habt.
