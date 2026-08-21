@@ -1,6 +1,12 @@
 {{ define "main" }}
-<div class="post-content">
-  {{ .TableOfContents }}
-  {{ .Content }}
-</div>
+<article class="post-single">
+  <div class="post-content">
+    {{ if .TableOfContents }}
+    <div class="toc">
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
+    {{ .Content }}
+  </div>
+</article>
 {{ end }}
