@@ -5,15 +5,22 @@ theme = "PaperMod"
 enableRobotsTXT = true
 
 [params]
-  description = "Notizen und Lessons Learned zu Software, DIY-Projekten und Entscheidungen."
-  ShowReadingTime = true
-  ShowShareButtons = false
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowToc = true
-  TocOpen = false
-  defaultTheme = "auto"          # hell/dunkel automatisch je nach Systemeinstellung
+  homeInfoParams.Title = "OpenSource-Kompass"
+  homeInfoParams.Content = """
+## Einleitung
+
+Meiner Meinung nach ist das Internet, Programme und Apps aktuell ziemlich weit von dem Grundgedanke, den es früher hatte, entfernt. Einer Demokratisierung der Kommunikation. Aktuell werden die meisten Apps von großen Unternehmen mit fragwürdigen Interessen beherrscht. Open Source bietet dazu eine Gegenbewegung an. Mittlerweile gibt es auch sehr viele Programme/Apps, die sehr gut funktionieren und manchmal sogar besser sind als ihre Closed-Source-Alternativen. Ich will mit dieser Seite einen kleinen Beitrag zur Verbreitung von Open-Source-Apps leisten. Dabei ist sehr viel subjektiv, und andere finden manche Apps vielleicht weniger oder mehr nützlich. Trotzdem möchte ich hier meine subjektive Meinung darstellen und vielleicht dem ein oder anderen Inspiration zu neuen Apps geben. Sie ist offensichtlich nicht vollständig, und bei vielen Sachen kenne ich Alternativen und bessere Dinge leider nicht – deshalb seht mir das nach und schreibt mir gerne eine Mail, wenn ihr noch weitere coole Ideen habt.
+
+## How to navigieren
+
+Im Folgenden teile ich es in Handy und PC/Laptop auf. Das sollte so das meiste für den Otto-Normal-Verbraucher abdecken. Ich habe dann versucht, die großen/wichtigen Funktionalitäten abzudecken (Betriebssystem, Browser, Navigation, ...).
+
+Ich habe die Apps und Programme immer in drei Kategorien eingeteilt, womit man ungefähr einschätzen kann, wie gut die App/das Programm ist. Falls eine App mal nicht Open Source ist, erwähne ich das explizit. Alle ohne Info sind Open Source:
+
+1. Genauso gut oder besser wie Closed Source
+2. Leichte Einbußen, aber immer noch auf Closed Source verzichtbar
+3. Guter Anfang, aber Closed Source für einige Anwendungen unverzichtbar
+"""
 
 #[[menu.main]]
 #  name = "Start"
@@ -28,8 +35,3 @@ enableRobotsTXT = true
 [taxonomies]
   category = "categories"
   tag = "tags"
-
-[markup]
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 4
