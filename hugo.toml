@@ -43,3 +43,8 @@ Ein wichtiges Anliegen von mir ist des weiteren die Bezahlung. Die Open Source C
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[[menu.main]]
+  name = "Kategorien"
+  url = "/categories/"
+  weight = 2

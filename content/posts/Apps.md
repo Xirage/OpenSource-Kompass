@@ -8,16 +8,9 @@ title = "Open Source Apps"
 ## AppStore
 - F-droid (Kategorie: 2) Der OG der Open Source App Stores
 - Neostore (Kategorie: 2) Weiterentwicklung vom F-droid, man kann auch andere Pakete herunterladen (z.B. Signal) und bekommt gleichzeitig alles was F-droid hat. Das modernere Design macht auch recht viel her. Außerdem werden immer wieder neue Apps vorgeschlagen, wo ich schon so manche interessante App gefunden hab
-## Messenger
+## Kommunikation
 - Signal (Kategorie: 1) Kennt jeder und der private Gedanke ist auch sehr gut. Leider ist es im Grunde genommen ein bisschen wie Whatsapp (nicht kompatibel mit anderen Messengern)
 - Matrix (Kategorie: 1*) Das ist eigentlich der Messenger auf den jeder umsteigen sollte. Es ist ein dezentraler, open source, ende zu ende verschlüsseltes Protokoll mit dem man kommunizieren kann. Es ist in etwas wie Email, nur dass es verschlüsselt ist. Heißt jeder kann seinen eigenen Server betreiben (wie man auch eigene E-Mail Server betreiben kann) und mit anderen Kommunizieren. Auch die App die man nutzt (z.B. Element) kann mit allen anderen kommunizieren, weil das zugrundeliegende Protokoll das selbe ist. -> Keine Einschränkung, Kontrolle, maximal dezentral.
-## Navigation
-- Magic Earth (Kategorie: 3)
-- OsmAnd (Kategorie: 3) Die App büst zwar einige wichtigen Funktionalitäten im Vergleich zu z.B. Google Maps ein, für Wanderungen oder andere Abenteuer ist sie aber extrem praktisch (man kann nach extrem vielen Dingen filtern) Ich nutze Sie zum Beispiel beim Bike- oder Backpacking um Unterstände, Trinkwasser usw. zu finden. Man kann auch wenn man eine noch nicht kategorisierten Ort gefunden hat diesen relativ einfach hinzufügen. Nach etwas Zeit erscheint er dann in der darüberliegenden Openstreet Map und ist für alle Menschen von nutzen
-- Organic Maps (Kategorie: 3)
-## Öffentlicher Verkehr
-- Öffi (Kategorie: 1-2)
-- Öffi NG (Kategorie: 1) Weiterentwicklung von Öffi mit sehr nützlichen zusätzlichen Features -> Nutze ich täglich und eine sehr schöne übersicht. Leider nicht auf F-Droid zu haben, sondern man muss die apk selber herunterladen
 ## Produktivität
 - Simple Time Tracker: Zeit aufzeichnen
 - Loop Habit Tracker: Habits tracken
@@ -48,7 +41,6 @@ title = "Open Source Apps"
 - TimeR Machine: App um personalisierte Wecker zu erstellen (z.B für Training, nach 3 min vibriert das Handy, dann zählt die APp automatisch weiter für 1 minute Pause, dann wieder 4 min training usw.)
 - vesIC: App um zwei Bilder zu vergleichen, was sich verändert hat
 ## Grundfunktionen
-- Aegis: Sehr gute 2FA App
 - Breezy Weather: Schöne Wetterapp
 - Neo Store: Schöner und übersichtlicher Home-Launcher
 
