@@ -48,3 +48,5 @@ Ein wichtiges Anliegen von mir ist des weiteren die Bezahlung. Die Open Source C
   name = "Kategorien"
   url = "/categories/"
   weight = 2
+
+  hideSummary = true
