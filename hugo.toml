@@ -23,6 +23,11 @@ Ich habe die Apps und Programme immer in drei Kategorien eingeteilt, womit man u
 ## Woher kommt das Wissen
 
 Das Interesse für Open Source (so viel wie ich mich erinnere) ist zu großen Teilen durch lesen der Biografie "Permanent Record" von Edward Snowden entstanden. Auch wo ich dann 2022 auf mein neues Handy das de-googelte und open source basierende Betriebsystem E/os installierte wurde das interesse immer größer. Seitdem versuche ich so gut es geht Open Source Apps und Programme zu nutzen und habe über die Zeit relativ viele Programme kennengelernt
+
+## Bezahlung von Open Source
+Ein wichtiges Anliegen von mir ist des weiteren die Bezahlung. Die Open Source Community könnte viel größer sein wenn die Entwickler Geld verdienen könnten. Vieles basiert schon auf Spenden. Meiner Meinung nach wäre durchaus der Markt da an Leute die OS Datenschutzsoftware bezahlen würden, oft ist aber die Friktion zu groß. Eine Idee die ich hatte wäre man kann auf einer Plattform angeben man will zb. 20€ pro Monat für seine Software ausgeben und das kann man dann prozentual aufteilen 20% geht an Linux, 20% an e/OS/ 10% an Syncthing usw.. Dadurch hätten die Entwickler Datenschutzfreundlicher Softwar ein geregeltes Einkommen. Eine Art Möglichkeit die das so anbietet gibt es zwar schon (Liberapay) da ist die Friktion aber immer noch recht groß (kleine Beträge können nicht überwiesen werden). Trotzdem ist es ein guter Anfang und sehr zu empfehlen, wenn man seine Creator unterstützen möchte. Interessant wäre eine weiterentwicklung auf andere Lebensbereiche wie Musik, Youtube oder Film. Man legt einen Monatlichen Betrag fest und teilt ihn je nach Nutzungsverhalten oder Interesse seinen Lieblingscreatorn auf (ohne closed Source Plattformen)
+{{< svgmap src="images/os-kompass-map.svg" >}}
+
 """
 
 #[[menu.main]]

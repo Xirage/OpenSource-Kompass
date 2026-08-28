@@ -1,5 +1,5 @@
 +++
-title = "Open Source Software fürs Smartphone"
+title = "Open Source Apps"
 +++
 
 ## Betriebssystem
@@ -25,6 +25,7 @@ title = "Open Source Software fürs Smartphone"
 - Stepsy: Schritte zählen
 - Anki: Wahrscheinlich eine der besten Flashcard Apps und eine der (wissenschaftlich) besten Möglichkeit neue Dinge zu lernen
 - Bildschirmzeit: Schlanker Bildschirmzeit tracker
+- Collabora Office
 ## Mediennutzung
 - Musicolet: Meiner Meinung nach die beste App zum offline Musikhören für seine eigene mp3 Sammlung. Extrem viele nützliche Features wie zum Beispiel 20 parallele Warteschlangen (leider nicht im F-droid verfügbar, aber kein Internetzugriff nötig -> keine Daten werden gesendet)
 - Newpipe

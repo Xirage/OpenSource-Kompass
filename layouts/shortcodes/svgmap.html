@@ -1,0 +1,85 @@
+{{ $id := printf "svgmap-%d" (now.UnixNano) }}
+<div id="{{ $id }}-wrapper"
+    style="width:100%; height:600px; overflow:hidden; position:relative; background:#ffffff; border-radius:8px; cursor:grab;">
+    <div id="{{ $id }}" style="position:absolute; top:0; left:0; transform-origin:0 0;"></div>
+</div>
+<script>
+    (function () {
+        var wrapper = document.getElementById("{{ $id }}-wrapper");
+        var container = document.getElementById("{{ $id }}");
+        var scale = 1, panX = 0, panY = 0;
+        var isDragging = false, dragged = false;
+        var startX, startY, startPanX, startPanY;
+
+        function applyTransform() {
+            container.style.transform = "translate(" + panX + "px," + panY + "px) scale(" + scale + ")";
+        }
+
+        fetch("{{ .Get "src" | relURL }}?v=" + Date.now())
+            .then(function (r) { return r.text(); })
+            .then(function (svgText) {
+                container.innerHTML = svgText;
+                var svgEl = container.querySelector('svg');
+                svgEl.querySelectorAll('a').forEach(function (link) {
+                    link.style.pointerEvents = 'bounding-box';
+                });
+                svgEl.querySelectorAll('text').forEach(function (t) {
+                    t.style.pointerEvents = 'none';
+                });
+                var svgEl = container.querySelector('svg');
+                svgEl.style.display = 'block';
+
+                var wrapperRect = wrapper.getBoundingClientRect();
+                var vb = svgEl.viewBox && svgEl.viewBox.baseVal;
+                var svgWidth = (vb && vb.width) ? vb.width : (svgEl.clientWidth || 1000);
+                var svgHeight = (vb && vb.height) ? vb.height : (svgEl.clientHeight || 600);
+
+                scale = Math.min(wrapperRect.width / svgWidth, wrapperRect.height / svgHeight) * 0.95;
+                panX = (wrapperRect.width - svgWidth * scale) / 2;
+                panY = (wrapperRect.height - svgHeight * scale) / 2;
+                applyTransform();
+
+                wrapper.addEventListener('mousedown', function (e) {
+                    isDragging = true; dragged = false;
+                    startX = e.clientX; startY = e.clientY;
+                    startPanX = panX; startPanY = panY;
+                    wrapper.style.cursor = 'grabbing';
+                });
+                window.addEventListener('mousemove', function (e) {
+                    if (!isDragging) return;
+                    var dx = e.clientX - startX, dy = e.clientY - startY;
+                    if (Math.abs(dx) > 4 || Math.abs(dy) > 4) dragged = true;
+                    panX = startPanX + dx;
+                    panY = startPanY + dy;
+                    applyTransform();
+                });
+                window.addEventListener('mouseup', function () {
+                    isDragging = false;
+                    wrapper.style.cursor = 'grab';
+                });
+
+                wrapper.addEventListener('wheel', function (e) {
+                    e.preventDefault();
+                    var rect = wrapper.getBoundingClientRect();
+                    var mouseX = e.clientX - rect.left;
+                    var mouseY = e.clientY - rect.top;
+                    var delta = e.deltaY < 0 ? 1.1 : 0.9;
+                    var newScale = Math.min(Math.max(scale * delta, 0.3), 5);
+                    panX = mouseX - (mouseX - panX) * (newScale / scale);
+                    panY = mouseY - (mouseY - panY) * (newScale / scale);
+                    scale = newScale;
+                    applyTransform();
+                }, { passive: false });
+
+                wrapper.addEventListener('click', function (e) {
+                    if (dragged) { dragged = false; return; }
+                    var stack = document.elementsFromPoint(e.clientX, e.clientY);
+                    console.log("--- Elemente an Klickposition ---");
+                    stack.forEach(function (el) {
+                        console.log(el.tagName, el.outerHTML ? el.outerHTML.slice(0, 100) : '');
+                    });
+                });
+            })
+            .catch(function (err) { console.error("SVG-Map Fehler:", err); });
+    })();
+</script>
