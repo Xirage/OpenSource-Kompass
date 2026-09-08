@@ -8,27 +8,38 @@ enableRobotsTXT = true
 homeInfoParams.Content = """
 ## Einleitung
 
-Meiner Meinung nach ist das Internet, Programme und Apps aktuell ziemlich weit von dem Grundgedanke, den es früher hatte, entfernt. Einer Demokratisierung der Kommunikation. Aktuell werden die meisten Apps von großen Unternehmen mit fragwürdigen Interessen beherrscht. Open Source bietet dazu eine Gegenbewegung an. Mittlerweile gibt es auch sehr viele Programme/Apps, die sehr gut funktionieren und manchmal sogar besser sind als ihre Closed-Source-Alternativen. Ich will mit dieser Seite einen kleinen Beitrag zur Verbreitung von Open-Source-Apps leisten. Dabei ist sehr viel subjektiv, und andere finden manche Apps vielleicht weniger oder mehr nützlich. Trotzdem möchte ich hier meine subjektive Meinung darstellen und vielleicht dem ein oder anderen Inspiration zu neuen Apps geben. Sie ist offensichtlich nicht vollständig, und bei vielen Sachen kenne ich Alternativen und bessere Dinge leider nicht – deshalb seht mir das nach und schreibt mir gerne eine Mail, wenn ihr noch weitere coole Ideen habt.
+Meiner Meinung nach haben sich das Internet, Programme und Apps mittlerweile ziemlich weit von dem Grundgedanken entfernt, den sie einmal hatten: einer Demokratisierung der Kommunikation. 
+Aktuell werden die meisten Apps von großen Unternehmen mit fragwürdigen Interessen beherrscht. Open Source bietet dazu eine Gegenbewegung. 
+Mittlerweile gibt es sehr viele Programme und Apps, die richtig gut funktionieren und manchmal sogar besser sind als ihre Closed-Source-Alternativen. 
+Mit dieser Seite will ich einen kleinen Beitrag zur Verbreitung von Open-Source-Software leisten.
+
+Vieles davon ist subjektiv, andere finden manche Apps vielleicht weniger oder mehr nützlich als ich. 
+Trotzdem möchte ich hier meine persönliche Sicht teilen und vielleicht dem ein oder anderen Inspiration für neue Apps geben. 
+Die Liste ist bei Weitem nicht vollständig, und bei einigen Kategorien kenne ich sicher noch nicht die besten Alternativen – deshalb seht mir das nach und schreibt mir gerne eine Mail, für weitere Interessante Projekte.
 
 ## How to navigieren
+Im Folgenden habe ich versucht, die großen, wichtigen Funktionsbereiche abzudecken (Betriebssystem, Browser, Navigation, ...).
+Unten seht ihr einen Übersichtsbaum mit der Unterteilung. 
+Er ist zoombar, und die Überkategorien lassen sich direkt anklicken. Im unteren Bereich des Baums findet ihr Apps und Programme in den verschiedenen Kategorien, oben die grundlegenden Kategorien und Betriebssysteme.
+Ich aktualisiere die Seite immer wieder – neue Ergänzungen markiere ich mit einem "Neu" daneben. Meine Lieblingssoftware, die einfach herausragende Funktionalität bietet, ist grün markiert. 
+Die anderen Einträge sind natürlich auch sehr gut, ich nutze sie nur seltener.
+Software mit derselben Rahmenfarbe wie die Überkategorien (Handy, Computer, Browser) gibt es nur dort. 
+Hat sie einen schwarzen Rahmen, ist sie überall verfügbar.
 
-Im Folgenden teile ich es in Handy und PC/Laptop auf. Das sollte so das meiste für den Otto-Normal-Verbraucher abdecken. Ich habe dann versucht, die großen/wichtigen Funktionalitäten abzudecken (Betriebssystem, Browser, Navigation, ...).
-
-Ich habe die Apps und Programme immer in drei Kategorien eingeteilt, womit man ungefähr einschätzen kann, wie gut die App/das Programm ist. Falls eine App mal nicht Open Source ist, erwähne ich das explizit. Alle ohne Info sind Open Source:
-
-1. Genauso gut oder besser wie Closed Source
-2. Leichte Einbußen, aber immer noch auf Closed Source verzichtbar
-3. Guter Anfang, aber Closed Source für einige Anwendungen unverzichtbar
-
-Unten seht ihr auch noch einen Übersichtsbaum und die Unterteilung. Er ist zoombar und die Überkategorien kann man direkt anklicken.
+{{< svgmap src="images/os-kompass-map.svg" >}}
 
 ## Woher kommt das Wissen
+Mein Interesse an Open Source ist – soweit ich mich erinnere – unter anderem durch die Biografie "Permanent Record" von Edward Snowden entstanden. 
+Verstärkt hat sich das 2022, als ich auf meinem neuen Handy das entgoogelte, Open-Source-basierte Betriebssystem e/OS installierte. 
+Seitdem versuche ich, so gut es geht, Open-Source-Apps und -Programme zu nutzen, und habe über die Zeit einige davon kennengelernt.
 
-Das Interesse für Open Source (so viel wie ich mich erinnere) ist zu großen Teilen durch lesen der Biografie "Permanent Record" von Edward Snowden entstanden. Auch wo ich dann 2022 auf mein neues Handy das de-googelte und open source basierende Betriebsystem E/os installierte wurde das interesse immer größer. Seitdem versuche ich so gut es geht Open Source Apps und Programme zu nutzen und habe über die Zeit relativ viele Programme kennengelernt
-
-## Bezahlung von Open Source
-Ein wichtiges Anliegen von mir ist des weiteren die Bezahlung. Die Open Source Community könnte viel größer sein wenn die Entwickler Geld verdienen könnten. Vieles basiert schon auf Spenden. Meiner Meinung nach wäre durchaus der Markt da an Leute die OS Datenschutzsoftware bezahlen würden, oft ist aber die Friktion zu groß. Eine Idee die ich hatte wäre man kann auf einer Plattform angeben man will zb. 20€ pro Monat für seine Software ausgeben und das kann man dann prozentual aufteilen 20% geht an Linux, 20% an e/OS/ 10% an Syncthing usw.. Dadurch hätten die Entwickler Datenschutzfreundlicher Softwar ein geregeltes Einkommen. Eine Art Möglichkeit die das so anbietet gibt es zwar schon (Liberapay) da ist die Friktion aber immer noch recht groß (kleine Beträge können nicht überwiesen werden). Trotzdem ist es ein guter Anfang und sehr zu empfehlen, wenn man seine Creator unterstützen möchte. Interessant wäre eine weiterentwicklung auf andere Lebensbereiche wie Musik, Youtube oder Film. Man legt einen Monatlichen Betrag fest und teilt ihn je nach Nutzungsverhalten oder Interesse seinen Lieblingscreatorn auf (ohne closed Source Plattformen)
-{{< svgmap src="images/os-kompass-map.svg" >}}
+## Unterstützung für Open Source
+Ein wichtiges Anliegen von mir ist außerdem die Bezahlung der Entwickler. Die Open-Source-Community könnte viel größer sein, wenn Entwickler damit Geld verdienen könnten. 
+Vieles basiert bisher auf Spenden. Meiner Meinung nach wäre durchaus ein Markt für Leute da, die datenschutzfreundliche Open-Source-Software bezahlen würden – oft ist aber die Einstiegshürde zu groß.
+Eine Idee, die ich hatte: Man könnte auf einer Plattform einen festen Betrag angeben, den man monatlich für Software ausgeben möchte, sagen wir 20 €, und ihn dann prozentual aufteilen – 20 % an eine Linux Distro, 20 % an e/OS, 10 % an Syncthing usw. 
+Dadurch hätten Entwickler datenschutzfreundlicher Software ein geregeltes Einkommen. Eine ähnliche Idee gibt es zwar schon mit Liberapay, dort ist die Einstiegshürde aber immer noch recht groß (kleine Beträge lassen sich kaum überweisen). 
+Trotzdem ist es ein guter Anfang und sehr empfehlenswert, wenn man seine Creator unterstützen möchte.
+Interessant wäre eine Weiterentwicklung auf andere Lebensbereiche wie Musik, YouTube oder Film: Man legt einen monatlichen Betrag fest und teilt ihn je nach Nutzungsverhalten oder Interesse auf seine Lieblingscreator auf – ganz ohne Closed-Source-Plattformen.
 
 """
 
@@ -46,9 +57,6 @@ Ein wichtiges Anliegen von mir ist des weiteren die Bezahlung. Die Open Source C
   category = "categories"
   tag = "tags"
 
-[[menu.main]]
-  name = "Kategorien"
-  url = "/categories/"
-  weight = 2
+
 
   hideSummary = true

@@ -11,3 +11,4 @@ title = "Sicherheit"
 
 ## VPN
 - WireGuard: App/Programm um sehr einfach einen VPN auf sein heimischen WLAN Router (zb Fritzbox) einzurichten um bei ungeschützten WLANs sensible arbeiten auszuführen
+- Proton: Firma die auf Open Source setzt und auch einen VPN anbietet

@@ -3,12 +3,12 @@ title = "Navigation"
 +++
 
 ## Navigieren
-- Magic Earth (Kategorie: 3)
+- Magic Earth (Kategorie: 3): Leider nicht open Source dafür aber Datenschutz im Auge, ist vorinstalliert bei E/os/ weil es keine besser alternative gibt
 - OsmAnd (Kategorie: 3) Die App büst zwar einige wichtigen Funktionalitäten im Vergleich zu z.B. Google Maps ein, für Wanderungen oder andere Abenteuer ist sie aber extrem praktisch (man kann nach extrem vielen Dingen filtern) Ich nutze Sie zum Beispiel beim Bike- oder Backpacking um Unterstände, Trinkwasser usw. zu finden. Man kann auch wenn man eine noch nicht kategorisierten Ort gefunden hat diesen relativ einfach hinzufügen. Nach etwas Zeit erscheint er dann in der darüberliegenden Openstreet Map und ist für alle Menschen von nutzen
-- Organic Maps (Kategorie: 3)
+- Organic Maps (Kategorie: 3): Relativ bekannte Open Source Navigations App
 
 ## Öffentlicher Verkehr
-- Öffi (Kategorie: 1-2)
+- Öffi (Kategorie: 1-2): Sehr gute Übersicht über Fahrpläne des Öffentlichen Verkehrs
 - Öffi NG (Kategorie: 1) Weiterentwicklung von Öffi mit sehr nützlichen zusätzlichen Features -> Nutze ich täglich und eine sehr schöne übersicht. Leider nicht auf F-Droid zu haben, sondern man muss die apk selber herunterladen
 
 ## Datenbereistellung
