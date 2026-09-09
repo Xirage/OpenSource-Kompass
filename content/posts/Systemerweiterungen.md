@@ -2,10 +2,10 @@
 title = "Systemerweiterungen"
 +++
 
-- micro G: Möglichkeit um auf Entgoogelten Smartphones trotzdem Google Apps zu nutzen (z.B. auf E/os/)
-- Shelter: App um Apps zu klonen, womit man die selbe App unabhängig zweimal auf einem Gerät nutzen kann (sehr praktisch für Öffi zb um zwei Reiseoptionen schnell zu vergleichen)
-- Neo Launcher: Schöner und übersichtlicher Home-Launcher
-- Shizuku: App um auf Root von Android zuzugreifen ohne Root aktiviert haben zu müssen
-- Waydroid: Programm um Android Apps auf dem PC zu verwenden
-- Permissions Summary: Übersichtliche Anzeige welche Apps welche Zugriffsberechtigungen haben
-- Privacy Flip: Privacy App um mit Shizuku zb beim ausschalten des Bildschirms das Bluetooth, Standort usw. auszuschalten
+- **microG:** Ermöglicht die Nutzung von Google-Apps auf entgoogelten Smartphones (z. B. auf /e/OS/).
+- **Shelter:** App zum Klonen von Apps, um dieselbe App unabhängig zweimal auf einem Gerät zu nutzen. *Praktisch z. B. für Öffi, um zwei Reiseoptionen schnell zu vergleichen.*
+- **Neo Launcher:** Schöner und übersichtlicher Android Home-Launcher.
+- **Shizuku:** App, um Root-Zugriff auf Android zu erhalten, ohne das Gerät rooten zu müssen.
+- **Waydroid:** Programm, um Android-Apps auf dem PC auszuführen.
+- **Permissions Summary:** Übersichtliche Anzeige, welche Apps welche Berechtigungen nutzen.
+- **Privacy Flip:** Datenschutz-App, um mit Shizuku z. B. beim Sperren des Bildschirms Bluetooth, Standort usw. automatisch auszuschalten.

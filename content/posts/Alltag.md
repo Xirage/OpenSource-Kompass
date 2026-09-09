@@ -3,13 +3,13 @@ title = "Alltag"
 +++
 
 ## Finanzen
-- Oinkoin: Gute Open Source App zum tracken seiner Ausgaben
-- Currencies: Einfacher, nützlicher Währungsrechner
+- **Oinkoin:** Gute Offline-App zum Tracken der Ausgaben
+- **Currencies:** Einfacher, nützlicher Währungsrechner
 
 ## Weiteres
-- Audile: Shazam Alternative um Lieder zu erkennen
-- Fairscan: Einfacher, nützlicher Dokumentenscanner
-- Fossify Apps: Eine ganze Appfamilie die sehr leichtgewichtige Apps für grundlegende Handyfunktionen anbieten (Galerie, Taschenrechner, Paint,...)
-- Sat Stat, pyphox: Apps um auf Sensoren (GPS, Beschleunigung,...) des Handys direkt zugreifen zu können
-- vesIC: App um zwei Bilder zu vergleichen, was sich verändert hat
-- Breezy Weather: Schöne Wetterapp
+- **Audile:** Shazam-Alternative zum Erkennen von Liedern
+- **Fairscan:** Einfacher, nützlicher Dokumentenscanner
+- **Fossify Apps:** Eine App-Familie mit leichtgewichtigen Apps für grundlegende Handyfunktionen (z. B. Galerie, Taschenrechner, Paint)
+- **Sat Stat, pyphox:** Apps, die direkt auf Sensoren des Handys zugreifen (z. B. GPS, Beschleunigung)
+- **vesIC:** App die Veränderungen zwischen zwei Bildern darstellen kann
+- **Breezy Weather:** Übersichtliche Wetter-App

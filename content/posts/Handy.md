@@ -3,13 +3,12 @@ title = "Handy"
 +++
 
 ## Betriebssystem
-- LineageOS: Basiert auf AOSP (Android Open Source Project), relativ "blankes" System
-- e/os/ (Kategorie: 2): Kommt schon mit vielen guten vorinstallierten Apps, was den Umstieg vereinfacht. (Nutze auch E/os/) Oft gibt es aber deutlich bessere Apps, ua. deshalb hier dieser Artikel 
-- Graphene/os: Sehr auf Datenschutz ausgerichtetes Betriebssystem (Basiert aber auch auf AOSP)
-
+- **LineageOS:** Basiert auf AOSP (Android Open Source Project) und bietet ein relativ "blankes" System.
+- **/e/OS/:** Basiert auch auf AOSP und kommt mit vielen nützlichen vorinstallierten Apps, was den Umstieg erleichtert. *(Ich nutze selbst /e/OS/.)* Es gibt aber oft bessere Alternativen zu den vorinstallierten Apps – unter anderem deshalb existiert dieser Artikel.
+- **GrapheneOS:** Sehr datenschutzfokussiertes Betriebssystem (basierend auch auf AOSP).
 
 ## AppStore
-- F-droid (Kategorie: 2) Der OG der Open Source App Stores, hier sind die meisten der Open Source Apps hier zu finden
-- Neostore (Kategorie: 2) Weiterentwicklung vom F-droid, man kann auch andere Pakete herunterladen (z.B. Signal) und bekommt gleichzeitig alles was F-droid hat. Das modernere Design macht auch recht viel her. Außerdem werden immer wieder neue Apps vorgeschlagen, wo ich schon so manche interessante App gefunden habe
-- Aurora Store: Unoffizieller Open Source Client für Google Play und um alle Apps die Google Play auch hat herunterladen zu können
-- App Lounge: e/OS/ interner AppStore
+- **F-Droid:** Der "OG" der Open-Source-App-Stores – hier findet man die meisten Open-Source-Apps.
+- **NeoStore:** Eine Weiterentwicklung von F-Droid, die zusätzlich andere Pakete (z. B. Signal) anbietet und gleichzeitig alles von F-Droid enthält. Das moderne Design ist ein großer Pluspunkt. Zudem werden regelmäßig neue Apps vorgeschlagen – so habe ich schon viele interessante Entdeckungen gemacht.
+- **Aurora Store:** Unoffizieller Open-Source-Client für Google Play, um alle Apps herunterzuladen, die auch im Google Play Store verfügbar sind.
+- **App Lounge:** Interner AppStore von /e/OS/, hat Ähnlichkeiten zum Aurora Store

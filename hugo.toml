@@ -8,39 +8,43 @@ enableRobotsTXT = true
 homeInfoParams.Content = """
 ## Einleitung
 
-Meiner Meinung nach haben sich das Internet, Programme und Apps mittlerweile ziemlich weit von dem Grundgedanken entfernt, den sie einmal hatten: einer Demokratisierung der Kommunikation. 
-Aktuell werden die meisten Apps von großen Unternehmen mit fragwürdigen Interessen beherrscht. Open Source bietet dazu eine Gegenbewegung. 
-Mittlerweile gibt es sehr viele Programme und Apps, die richtig gut funktionieren und manchmal sogar besser sind als ihre Closed-Source-Alternativen. 
+Meiner Meinung nach werden Internet, Programme und Apps heute stark von großen Unternehmen mit fragwürdigen Interessen dominiert. 
+Open Source ist die Gegenbewegung dazu. Mittlerweile gibt es sehr viele Programme und Apps, die richtig gut funktionieren und manchmal sogar besser sind als ihre Closed-Source-Alternativen. 
 Mit dieser Seite will ich einen kleinen Beitrag zur Verbreitung von Open-Source-Software leisten.
 
-Vieles davon ist subjektiv, andere finden manche Apps vielleicht weniger oder mehr nützlich als ich. 
+Vieles davon ist subjektiv, andere finden manche Apps und Programme vielleicht weniger oder mehr nützlich als ich. 
 Trotzdem möchte ich hier meine persönliche Sicht teilen und vielleicht dem ein oder anderen Inspiration für neue Apps geben. 
-Die Liste ist bei Weitem nicht vollständig, und bei einigen Kategorien kenne ich sicher noch nicht die besten Alternativen – deshalb seht mir das nach und schreibt mir gerne eine Mail, für weitere Interessante Projekte.
+Die Eierlegende Wollmilchsau gibt es natürlich nicht, einige Apps oder Programme kommen dem aber schon sehr nah. ;)
+Die Liste ist bei Weitem nicht vollständig, und bei einigen Kategorien kenne ich sicher noch nicht die besten Alternativen. 
+Falls ihr weitere coole Projekte kennt schreibt mir gerne eine Mail.
 
 ## How to navigieren
 Im Folgenden habe ich versucht, die großen, wichtigen Funktionsbereiche abzudecken (Betriebssystem, Browser, Navigation, ...).
-Unten seht ihr einen Übersichtsbaum mit der Unterteilung. 
-Er ist zoombar, und die Überkategorien lassen sich direkt anklicken. Im unteren Bereich des Baums findet ihr Apps und Programme in den verschiedenen Kategorien, oben die grundlegenden Kategorien und Betriebssysteme.
-Ich aktualisiere die Seite immer wieder – neue Ergänzungen markiere ich mit einem "Neu" daneben. Meine Lieblingssoftware, die einfach herausragende Funktionalität bietet, ist grün markiert. 
+Unten seht ihr einen Übersichtsbaum mit dieser Unterteilung. 
+Er ist zoombar, und die Überkategorien lassen sich direkt anklicken. 
+Im unteren Bereich des Baums findet ihr Apps und Programme in den verschiedenen Kategorien, oben die grundlegenden Kategorien und Betriebssysteme.
+Meine Lieblingssoftware, die einfach herausragende Funktionalität bietet, ist grün markiert. 
 Die anderen Einträge sind natürlich auch sehr gut, ich nutze sie nur seltener.
-Software mit derselben Rahmenfarbe wie die Überkategorien (Handy, Computer, Browser) gibt es nur dort. 
+Anhand der Rahmenfarbe erkennt man wo man die Software nutzen kann (Handy, Computer, Browser). 
 Hat sie einen schwarzen Rahmen, ist sie überall verfügbar.
 
 {{< svgmap src="images/os-kompass-map.svg" >}}
 
 ## Woher kommt das Wissen
-Mein Interesse an Open Source ist – soweit ich mich erinnere – unter anderem durch die Biografie "Permanent Record" von Edward Snowden entstanden. 
-Verstärkt hat sich das 2022, als ich auf meinem neuen Handy das entgoogelte, Open-Source-basierte Betriebssystem e/OS installierte. 
+Mein Interesse an Open Source ist unter anderem durch die Biografie "Permanent Record" von Edward Snowden entstanden. 
+Verstärkt hat sich das 2022, als ich auf meinem neuen Handy das entgoogelte, Open-Source-basierte Betriebssystem e/OS installierte und 2024 als ich angefangen habe Linux Mint am Laptop zu nutzen. 
 Seitdem versuche ich, so gut es geht, Open-Source-Apps und -Programme zu nutzen, und habe über die Zeit einige davon kennengelernt.
 
 ## Unterstützung für Open Source
-Ein wichtiges Anliegen von mir ist außerdem die Bezahlung der Entwickler. Die Open-Source-Community könnte viel größer sein, wenn Entwickler damit Geld verdienen könnten. 
-Vieles basiert bisher auf Spenden. Meiner Meinung nach wäre durchaus ein Markt für Leute da, die datenschutzfreundliche Open-Source-Software bezahlen würden – oft ist aber die Einstiegshürde zu groß.
-Eine Idee, die ich hatte: Man könnte auf einer Plattform einen festen Betrag angeben, den man monatlich für Software ausgeben möchte, sagen wir 20 €, und ihn dann prozentual aufteilen – 20 % an eine Linux Distro, 20 % an e/OS, 10 % an Syncthing usw. 
-Dadurch hätten Entwickler datenschutzfreundlicher Software ein geregeltes Einkommen. Eine ähnliche Idee gibt es zwar schon mit Liberapay, dort ist die Einstiegshürde aber immer noch recht groß (kleine Beträge lassen sich kaum überweisen). 
+Ein wichtiges Anliegen von mir ist außerdem die Bezahlung der Entwickler. Die Open-Source-Community würde viel größer sein, wenn Entwickler damit Geld verdienen könnten. 
+Ein großer Teil der Unterstützung basiert bisher auf Spenden. 
+Meiner Meinung nach wäre durchaus ein Markt für Leute da, die datenschutzfreundliche Open-Source-Software bezahlen würden, leider ist aber die Einstiegshürde zur Unterstützung zu groß.
+Eine Idee, die ich hatte: Man könnte auf einer Plattform einen festen Betrag angeben, den man monatlich für Software ausgeben möchte, sagen wir 20 €, und ihn dann prozentual aufteilen. 
+(Beispiel: 20 % an eine Linux Distro, 15 % an e/OS, 10 % an Syncthing usw.) 
+Dadurch hätten Entwickler datenschutzfreundlicher Software ein geregeltes Einkommen. 
+Eine ähnliche Idee gibt es zwar schon mit Liberapay, dort ist die Einstiegshürde aber immer noch recht groß (kleine Beträge lassen sich kaum überweisen). 
 Trotzdem ist es ein guter Anfang und sehr empfehlenswert, wenn man seine Creator unterstützen möchte.
-Interessant wäre eine Weiterentwicklung auf andere Lebensbereiche wie Musik, YouTube oder Film: Man legt einen monatlichen Betrag fest und teilt ihn je nach Nutzungsverhalten oder Interesse auf seine Lieblingscreator auf – ganz ohne Closed-Source-Plattformen.
-
+Interessant wäre eine Weiterentwicklung auf andere Lebensbereiche wie Musik, YouTube oder Film: Man legt einen monatlichen Betrag fest und teilt ihn je nach Nutzungsverhalten oder Interesse auf seine Lieblingscreator auf, ganz ohne Closed-Source-Plattformen.
 """
 
 #[[menu.main]]

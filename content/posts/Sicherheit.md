@@ -3,12 +3,12 @@ title = "Sicherheit"
 +++
 
 ## Passwortmanager
-- Bitwarden: Sehr guter OS Passwort Manager
-- Keepass: Etwas aufwendiger aber komplett Lokaler Passwortmanager -> Mit Syncthing komplett unabhängig
+- **Bitwarden:** Sehr guter Open-Source-Passwortmanager.
+- **KeePass:** Etwas aufwendiger, aber komplett lokaler Passwortmanager – mit Syncthing vollständig unabhängig nutzbar.
 
 ## 2FA-Apps
-- Aegis: Sehr gute 2FA App
+- **Aegis:** Sehr gute 2FA-App. (Auch für Google, Microsoft Konten nutzbar)
 
 ## VPN
-- WireGuard: App/Programm um sehr einfach einen VPN auf sein heimischen WLAN Router (zb Fritzbox) einzurichten um bei ungeschützten WLANs sensible arbeiten auszuführen
-- Proton: Firma die auf Open Source setzt und auch einen VPN anbietet
+- **WireGuard:** App/Programm, um einfach einen VPN-Server auf dem heimischen Router (z. B. Fritzbox) einzurichten – ideal für sicheres Arbeiten in ungeschützten WLANs.
+- **Proton:** Open-Source-basiertes Unternehmen, das auch einen VPN-Dienst anbietet.

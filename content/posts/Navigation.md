@@ -2,15 +2,15 @@
 title = "Navigation"
 +++
 
+## Datenbereitstellung
+- **OpenStreetMap:** Ein tolles, dezentrales Open-Source-Projekt, das die ganze Welt kategorisiert und wo jeder mitarbeiten kann. Mittlerweile nutzen sehr viele Websiten und Programme die grundlegenden Daten von OpenStreetMap.
+- **Overpass Turbo:** Unschlagbar, um spezifische Orte zu finden, deutlich besser als jede Closed-Source-Alternative. Basierend auf OpenStreetMap. Beispiel: Für eine Kanu-Tour kann man mit einfachem Code (heute leicht per KI erzeugbar) einen Fluss hervorheben und alle Wehre, Dämme oder Wasserkraftwerk im Umkreis anzeigen lassen. Die Möglichkeiten sind grenzenlos.
+
 ## Navigieren
-- Magic Earth (Kategorie: 3): Leider nicht open Source dafür aber Datenschutz im Auge, ist vorinstalliert bei E/os/ weil es keine besser alternative gibt
-- OsmAnd (Kategorie: 3) Die App büst zwar einige wichtigen Funktionalitäten im Vergleich zu z.B. Google Maps ein, für Wanderungen oder andere Abenteuer ist sie aber extrem praktisch (man kann nach extrem vielen Dingen filtern) Ich nutze Sie zum Beispiel beim Bike- oder Backpacking um Unterstände, Trinkwasser usw. zu finden. Man kann auch wenn man eine noch nicht kategorisierten Ort gefunden hat diesen relativ einfach hinzufügen. Nach etwas Zeit erscheint er dann in der darüberliegenden Openstreet Map und ist für alle Menschen von nutzen
-- Organic Maps (Kategorie: 3): Relativ bekannte Open Source Navigations App
+- **Magic Earth (Kategorie: 3):** Nicht Open Source, aber mit Datenschutz-Fokus. Vorinstalliert auf /e/OS/, da es aktuell keine bessere Alternative gibt.
+- **OsmAnd (Kategorie: 3):** Ersetzt zwar nicht Google Maps, ist aber extrem praktisch für Wanderungen oder Abenteuer (z. B. Filtern nach Unterständen, Trinkwasser etc.). Ich nutze die App des öfteren beim Bike- oder Backpacking. Bonus: Man kann nicht kategorisierte Orte einfach hinzufügen. Nach einiger Zeit erscheinen sie in OpenStreetMap und stehen der ganzen Community zur Verfügung.
+- **Organic Maps (Kategorie: 3):** Weitere Open-Source-Navigations-App basierend auf OpenStreetMap Daten.
 
 ## Öffentlicher Verkehr
-- Öffi (Kategorie: 1-2): Sehr gute Übersicht über Fahrpläne des Öffentlichen Verkehrs
-- Öffi NG (Kategorie: 1) Weiterentwicklung von Öffi mit sehr nützlichen zusätzlichen Features -> Nutze ich täglich und eine sehr schöne übersicht. Leider nicht auf F-Droid zu haben, sondern man muss die apk selber herunterladen
-
-## Datenbereistellung
-- OpenStreetMap (Kategorie: 1) Ein wahnsinnig cooles Projekt, genau so sollte es funktionieren Dezentrale, Open Source möglichkeit, die die ganze Welt kategoriesiert hat.
-- Overpass Turbo (Kategorie: 1): Will man bestimmte speziellere Orte herausfinden ist Overpass Turbo unschlagbar, auch deutlich besser als jede Closed Source Alternative die ich kenne. Das basiert auch auf OpenStreetMap Beispiel: Will man zb mit einem Schlauchboot/Kanu einen Fluss herunterfahren kommen einem regelmäßig Wehre und Dämme entgegen. Bei der Streckenplanung kann man jetzt Overpass Turbo mit einfachem Code nutzen (Heutzutage einfach mit KI erzeugbar) und zb den Fluss highlithen und alle Wasserkraftwerke, Wehre und Dämme im Umkreis darstellen. Unglaublich praktisch. Die Anzeigemöglichkeiten sind Grenzenlos.
+- **Öffi** Sehr gute Übersicht über Fahrpläne des öffentlichen Verkehrs.
+- **Öffi NG** Weiterentwicklung von Öffi mit nützlichen Zusatzfunktionen. Ich nutze es täglich, da es sehr übersichtlich und praktisch ist. (Nicht auf F-Droid verfügbar, APK muss manuell heruntergeladen werden.)

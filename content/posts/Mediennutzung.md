@@ -3,11 +3,11 @@ title = "Mediennutzung"
 +++
 
 ## Dateien anschauen
-- Musicolet: Meiner Meinung nach die beste App zum offline Musikhören für seine eigene mp3 Sammlung. Extrem viele nützliche Features wie zum Beispiel 20 parallele Warteschlangen (leider nicht im F-droid verfügbar, aber kein Internetzugriff nötig -> keine Daten werden gesendet)
-- Aves: Klasse Galerie mit vielen Funktionen wie Tags, Orte, Datum bearbeiten usw.
+- **Musicolet:** Die beste App zum Offline-Musikhören für die eigene MP3-Sammlung. Extrem viele nützliche Features, z. B. 20 parallele Warteschlangen. (Nicht in F-Droid verfügbar, aber hat keinen Internetzugriff –> keine Daten werden gesendet.)
+- **Aves:** Eine herausragende Galerie mit vielen Funktionen wie Tags, Orts- und Datumsbearbeitung usw..
 
 ## Social Media
-- AntennaPod: App für Podcast. Genau so sollte jede Social Media funktionieren. Jeder kann seinen eigenen Podcast betreiben und dann wird mit dem alten Protokoll und einem RSS Feed die neuen Folgen heruntergeladen -> Auch wieder vollkommen unabhängig von großen Plattformen. -> So sollte auch Youtube usw. funktionieren. Leider kamen die Plattform ideen zu spät
-- Newpipe: Scannt Youtube und zeigt Videos ohne Werbung und mit verschiedenen weiteren Einstellungsmöglichkeiten, man kann auch Soundcloud, Peertube usw. Videos anzeigen lassen
-- Fediverse, basierend auf Activity Pub: Das Grundlegende Protokoll auf dem viele Apps aufbauen (Mastodon, Peertube, Pixelfed,...) damit kann man dezentral Social Media Instanzen (zb auf einem eigenen Server) laufen lassen (ein bisschen wie bei Email oder Matrix) diese können aber trotzdem noch miteinander kommunizieren -> Deckt genau den Grundgedanke des Internets ab
-- FreeTube: Möglichkeit Youtube Videos mit gutem Datenschutz auf dem PC anzuschauen
+- **AntennaPod**: Die ideale Podcast-App. So sollte Social Media funktionieren: Jeder kann seinen eigenen Podcast auf einem Server betreiben und über das offene RSS-Format werden neue Folgen in der App automatisch abgerufen. Der Empfang ist dadurch vollständig unabhängig von einer zentralen Plattform, ganz ohne Algorithmus, der entscheidet, was du zu sehen bekommst.
+- **NewPipe:** Durchsucht YouTube und zeigt Videos ohne Werbung mit zusätzlichen Einstellungsmöglichkeiten an. (3-fache Geschwindigkeit, Download, Abspielen im Hintergrund) Unterstützt auch SoundCloud, PeerTube und andere Plattformen.
+- **Fediverse (basierend auf ActivityPub):** Zusammenschluss voneinander unabhängiger sozialer Netzwerke die basierend auf dem Protokoll ActivityPub miteinander kommunizieren können (Apps sind z. B. Mastodon, PeerTube, Pixelfed). Wie Matrix oder Mail kann jeder seinen eigenen Server betreiben und ist damit komplett unabhängig von großen Firmen. -> Social Media sollte genau so funktionieren.
+- **FreeTube:** Ermöglicht das Anschauen von YouTube-Videos mit gutem Datenschutz auf dem PC.

@@ -2,5 +2,5 @@
 title = "KI"
 +++
 
-- Confer.to: Das ist eine KI vom Signal Gründer, die laut ihm komplett ende zu ende verschlüsselt ist. Sie funktioniert auch echt gut für sensible Anfragen, wo man auf Datenschutz achtet
-- Vibe/Mistral Ai/Le chat: Europäische/Französische Ai als Alternative zu den Amerikanischen KI Modellen, leider nicht Open Source, unterliegt aber der DSGVO
+- **Confer.to:** Eine KI des Signal-Gründers, die laut seinen Angaben vollständig Ende-zu-Ende-verschlüsselt ist. Funktioniert besonders gut für sensible Anfragen, bei denen Datenschutz Priorität hat.
+- **Vibe/Mistral AI/Le Chat:** Europäische (französische) KI-Alternativen zu den amerikanischen Modellen. *Nicht Open Source*, unterliegen aber der DSGVO.

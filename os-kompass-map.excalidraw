@@ -146,8 +146,8 @@
         "type": 3
       },
       "seed": 622754333,
-      "version": 1061,
-      "versionNonce": 1393952015,
+      "version": 1062,
+      "versionNonce": 821456889,
       "isDeleted": false,
       "boundElements": [
         {
@@ -175,8 +175,8 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788512829382,
-      "link": "https://xirage.github.io/OpenSource-Kompass/posts/websiten/",
+      "updated": 1788884221397,
+      "link": "https://xirage.github.io/OpenSource-Kompass/posts/browser/",
       "locked": false
     },
     {
@@ -1151,8 +1151,8 @@
         "type": 3
       },
       "seed": 137553157,
-      "version": 1181,
-      "versionNonce": 979254831,
+      "version": 1182,
+      "versionNonce": 565862713,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1168,8 +1168,8 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788511905255,
-      "link": null,
+      "updated": 1788884234014,
+      "link": "http://localhost:1313/OpenSource-Kompass/posts/computer/",
       "locked": false
     },
     {
@@ -2963,8 +2963,8 @@
         "type": 3
       },
       "seed": 2059391147,
-      "version": 927,
-      "versionNonce": 2010377889,
+      "version": 928,
+      "versionNonce": 376935767,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2984,8 +2984,8 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788467060537,
-      "link": null,
+      "updated": 1788884200967,
+      "link": "http://localhost:1313/OpenSource-Kompass/posts/mediennutzung/",
       "locked": false
     },
     {
@@ -3424,8 +3424,8 @@
         "type": 3
       },
       "seed": 1001161381,
-      "version": 877,
-      "versionNonce": 431312911,
+      "version": 878,
+      "versionNonce": 1815261847,
       "isDeleted": false,
       "boundElements": [
         {
@@ -3449,8 +3449,8 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788466371141,
-      "link": null,
+      "updated": 1788884176030,
+      "link": "http://localhost:1313/OpenSource-Kompass/posts/produktivität/",
       "locked": false
     },
     {
@@ -4110,8 +4110,8 @@
         "type": 3
       },
       "seed": 964368267,
-      "version": 940,
-      "versionNonce": 1689586031,
+      "version": 941,
+      "versionNonce": 1065591833,
       "isDeleted": false,
       "boundElements": [
         {
@@ -4131,8 +4131,8 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788512655310,
-      "link": null,
+      "updated": 1788884185101,
+      "link": "http://localhost:1313/OpenSource-Kompass/posts/ki/",
       "locked": false
     },
     {
@@ -5179,8 +5179,8 @@
         "type": 3
       },
       "seed": 646562731,
-      "version": 1133,
-      "versionNonce": 831153057,
+      "version": 1134,
+      "versionNonce": 147869529,
       "isDeleted": false,
       "boundElements": [
         {
@@ -5204,8 +5204,8 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788466289949,
-      "link": null,
+      "updated": 1788884159291,
+      "link": "http://localhost:1313/OpenSource-Kompass/posts/kommunikation/",
       "locked": false
     },
     {
@@ -6927,8 +6927,8 @@
         "type": 3
       },
       "seed": 598755885,
-      "version": 1381,
-      "versionNonce": 1330870319,
+      "version": 1382,
+      "versionNonce": 2024726489,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6956,8 +6956,8 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788511904255,
-      "link": null,
+      "updated": 1788884241180,
+      "link": "http://localhost:1313/OpenSource-Kompass/posts/handy/",
       "locked": false
     },
     {
@@ -7397,8 +7397,8 @@
         "type": 3
       },
       "seed": 1576364653,
-      "version": 1290,
-      "versionNonce": 893977167,
+      "version": 1291,
+      "versionNonce": 1685801721,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7422,8 +7422,8 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788465811830,
-      "link": null,
+      "updated": 1788884142714,
+      "link": "http://localhost:1313/OpenSource-Kompass/posts/cloud-und-sync/",
       "locked": false
     },
     {
@@ -7546,8 +7546,8 @@
         "type": 3
       },
       "seed": 471551821,
-      "version": 1045,
-      "versionNonce": 891451681,
+      "version": 1046,
+      "versionNonce": 630317239,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7567,8 +7567,8 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788467124711,
-      "link": null,
+      "updated": 1788884209303,
+      "link": "http://localhost:1313/OpenSource-Kompass/posts/alltag/",
       "locked": false
     },
     {
@@ -9534,8 +9534,8 @@
         "type": 3
       },
       "seed": 1839100673,
-      "version": 1212,
-      "versionNonce": 2021907279,
+      "version": 1214,
+      "versionNonce": 1423288919,
       "isDeleted": false,
       "boundElements": [
         {
@@ -9575,14 +9575,14 @@
           "type": "arrow"
         }
       ],
-      "updated": 1788511554841,
-      "link": null,
+      "updated": 1788884110937,
+      "link": "https://xirage.github.io/OpenSource-Kompass/posts/systemerweiterungen/",
       "locked": false
     },
     {
       "id": "GWNMitRvuq44KbDNqzXXH",
       "type": "text",
-      "x": 490.5129741185359,
+      "x": 490.51297411853585,
       "y": 227.0924762882525,
       "width": 200.20091247558594,
       "height": 70,
@@ -9599,11 +9599,11 @@
       "index": "b4y8",
       "roundness": null,
       "seed": 1111124705,
-      "version": 733,
-      "versionNonce": 30862287,
+      "version": 734,
+      "versionNonce": 1248502105,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1788511321371,
+      "updated": 1788884070562,
       "link": null,
       "locked": false,
       "text": "System-\nerweiterungen",
