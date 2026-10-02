@@ -26,19 +26,19 @@ Im unteren Bereich des Baums findet ihr Apps und Programme in den verschiedenen 
 Meine Lieblingssoftware, die einfach herausragende Funktionalität bietet, ist grün markiert. 
 Die anderen Einträge sind natürlich auch sehr gut, ich nutze sie nur seltener.
 Anhand der Rahmenfarbe erkennt man wo man die Software nutzen kann (Handy, Computer, Browser). 
-Hat sie einen schwarzen Rahmen, ist sie überall verfügbar.
+Hat sie einen schwarzen oder weißen Rahmen, ist sie überall verfügbar.
 
 {{< svgmap src="images/os-kompass-map.svg" >}}
 
 ## Woher kommt das Wissen
 Mein Interesse an Open Source ist unter anderem durch die Biografie "Permanent Record" von Edward Snowden entstanden. 
 Verstärkt hat sich das 2022, als ich auf meinem neuen Handy das entgoogelte, Open-Source-basierte Betriebssystem e/OS installierte und 2024 als ich angefangen habe Linux Mint am Laptop zu nutzen. 
-Seitdem versuche ich, so gut es geht, Open-Source-Apps und -Programme zu nutzen, und habe über die Zeit einige davon kennengelernt.
+Seitdem versuche ich, so gut es geht, Open-Source-Apps und -Programme zu nutzen, und habe über die Zeit einige sehr gute Alternativen zu Closed Source kennengelernt.
 
 ## Unterstützung für Open Source
 Ein wichtiges Anliegen von mir ist außerdem die Bezahlung der Entwickler. Die Open-Source-Community würde viel größer sein, wenn Entwickler damit Geld verdienen könnten. 
 Ein großer Teil der Unterstützung basiert bisher auf Spenden. 
-Meiner Meinung nach wäre durchaus ein Markt für Leute da, die datenschutzfreundliche Open-Source-Software bezahlen würden, leider ist aber die Einstiegshürde zur Unterstützung zu groß.
+Meiner Meinung nach wäre durchaus ein Angebot von Leuten da, die datenschutzfreundliche Open-Source-Software bezahlen würden, leider ist aber die Einstiegshürde zur Unterstützung zu groß.
 Eine Idee, die ich hatte: Man könnte auf einer Plattform einen festen Betrag angeben, den man monatlich für Software ausgeben möchte, sagen wir 20 €, und ihn dann prozentual aufteilen. 
 (Beispiel: 20 % an eine Linux Distro, 15 % an e/OS, 10 % an Syncthing usw.) 
 Dadurch hätten Entwickler datenschutzfreundlicher Software ein geregeltes Einkommen. 

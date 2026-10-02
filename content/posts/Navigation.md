@@ -5,6 +5,7 @@ title = "Navigation"
 ## Datenbereitstellung
 - **OpenStreetMap:** Ein tolles, dezentrales Open-Source-Projekt, das die ganze Welt kategorisiert und wo jeder mitarbeiten kann. Mittlerweile nutzen sehr viele Websiten und Programme die grundlegenden Daten von OpenStreetMap.
 - **Overpass Turbo:** Unschlagbar, um spezifische Orte zu finden, deutlich besser als jede Closed-Source-Alternative. Basierend auf OpenStreetMap. Beispiel: Für eine Kanu-Tour kann man mit einfachem Code (heute leicht per KI erzeugbar) einen Fluss hervorheben und alle Wehre, Dämme oder Wasserkraftwerk im Umkreis anzeigen lassen. Die Möglichkeiten sind grenzenlos.
+- **OpenRailwayMap:** Übersichtliche Darstellung der weltweiten Gleisverbindungen mit Details wie Höchstgeschwindigkeiten oder Elektrifizierung. Basierend auf OpenStreetMap. Ideal, um z. B. Zugreisen zu planen.
 
 ## Navigieren
 - **Magic Earth (Kategorie: 3):** Nicht Open Source, aber mit Datenschutz-Fokus. Vorinstalliert auf /e/OS/, da es aktuell keine bessere Alternative gibt.

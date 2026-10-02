@@ -22,4 +22,4 @@ Zeitpunkt des Zugriffs). Details: GitHub Privacy Statement.
 
 ## Keine Analyse-Tools
 
-Aktuell werden keine Analyse- oder Tracking-Tools eingesetzt.
+Es werden keine Analyse- oder Tracking-Tools eingesetzt.
