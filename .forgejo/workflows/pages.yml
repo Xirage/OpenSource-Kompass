@@ -27,6 +27,6 @@ jobs:
       - name: Deploy to Codeberg Pages
         uses: https://codeberg.org/git-pages/action@v2
         with:
-          site: https://DEINUSERNAME.codeberg.page/
+          site: https://xirage.codeberg.page/
           token: ${{ forge.token }}
           source: public/
