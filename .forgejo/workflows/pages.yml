@@ -1,0 +1,32 @@
+name: Hugo Build & Deploy
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy to Codeberg Pages
+        uses: https://codeberg.org/git-pages/action@v2
+        with:
+          site: https://DEINUSERNAME.codeberg.page/
+          token: ${{ forge.token }}
+          source: public/
