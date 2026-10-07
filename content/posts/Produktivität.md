@@ -15,6 +15,7 @@ title = "Produktivität"
 - **Logseq:** Eine herausragende Notiz-App (Alternative zu Obsidian), die nach dem Zettelkastenprinzip und mit täglichen Journals ein "zweites Gehirn" ermöglicht. Alle Notizen werden lokal in Markdown-Dateien (.md) gespeichert – universell lesbar und bearbeitbar. Maximaler Datenschutz durch lokale Speicherung, Synchronisation z. B. mit Syncthing möglich.
 - **VS-Codium:** Open-Source-Version von Visual Studio Code. So gut wie alle Funktionen, aber komplett Open Source.
 - **Acode:** Code-Editor fürs Handy, ähnlich wie VS-Codium.
+- **Codeberg:** Deutsche non-profit Alternative zu Github. Auch diese Website läuft über Codeberg.
 - **LibreOffice:** Erfolgreiches Open-Source-Projekt, das alle Funktionen von Microsoft Office bietet.
 - **Collabora Office:** App für den Zugriff am Handy auf Office-Dateien.
 - **Excalidraw:** Intuitives Online-Tool zum schnellen Erstellen schöner Zeichnungen. *(Der Übersichtsbaum auf der Startseite wurde damit erstellt.)*
