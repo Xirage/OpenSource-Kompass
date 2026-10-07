@@ -16,9 +16,7 @@ Siehe [Impressum](/impressum/).
 
 ## Hosting
 
-Diese Seite wird über GitHub Pages gehostet (GitHub Inc./GitHub B.V.). Beim
-Aufruf der Seite verarbeitet GitHub automatisch Server-Logdaten (u.a. IP-Adresse,
-Zeitpunkt des Zugriffs). Details: GitHub Privacy Statement.
+Diese Seite wird über Codeberg Pages gehostet
 
 ## Keine Analyse-Tools
 
