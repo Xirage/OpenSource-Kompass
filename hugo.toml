@@ -1,4 +1,4 @@
-baseURL = "https://xirage.codeberg.page/OpenSourceKompass/"
+baseURL = "https://xirage.codeberg.page/"
 languageCode = "de-de"
 title = "OpenSource-Kompass"          # z.B. "Problemloeser" o.ä. - hier anpassen
 theme = "PaperMod"
