@@ -13,3 +13,4 @@ title = "Alltag"
 - **Sat Stat, pyphox:** Apps, die direkt auf Sensoren des Handys zugreifen (z. B. GPS, Beschleunigung)
 - **vesIC:** App die Veränderungen zwischen zwei Bildern darstellen kann
 - **Breezy Weather:** Übersichtliche Wetter-App
+- **QuickWeather:** Alternative zu Breezy Weather
