@@ -9,3 +9,5 @@ title = "Systemerweiterungen"
 - **Waydroid:** Programm, um Android-Apps auf dem PC auszuführen.
 - **Permissions Summary:** Übersichtliche Anzeige, welche Apps welche Berechtigungen nutzen.
 - **Privacy Flip:** Datenschutz-App, um z. B. mit Shizuku beim Sperren des Bildschirms Bluetooth, Standort usw. automatisch auszuschalten.
+- **Obtanium:** Ermöglicht das Installieren und Aktualisieren von Apps direkt aus der Quelle (z. B. GitHub). Besonders praktisch für Apps wie Öffi NG, die nicht auf F-Droid veröffentlicht sind.
+- **DiskUsage:** Schlanke, praktische App zum analysieren des Handyspeichers.

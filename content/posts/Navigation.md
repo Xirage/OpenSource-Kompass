@@ -8,9 +8,9 @@ title = "Navigation"
 - **OpenRailwayMap:** Übersichtliche Darstellung der weltweiten Gleisverbindungen mit Details wie Höchstgeschwindigkeiten oder Elektrifizierung. Basierend auf OpenStreetMap. Ideal, um z. B. Zugreisen zu planen.
 
 ## Navigieren
-- **Magic Earth:** Nicht Open Source, aber mit Datenschutz-Fokus. Vorinstalliert auf /e/OS/, da es aktuell keine bessere Alternative gibt.
-- **OsmAnd:** Ersetzt zwar nicht Google Maps, ist aber extrem praktisch für Wanderungen oder Abenteuer. Man kann z. B. im Umkreis nach allen eingetragenen Trinkwasserquellen oder Unterständen suchen. Es fühlt sich wie eine App basierte Version von Overpass Turbo an, kommt aber an die Funktionalität nicht ganz ran. Außerdem kann man nicht kategorisierte Orte einfach hinzufügen, wodurch diese nach einiger Zeit in der großen OpenStreetMap-Karte erscheinen. So kann man aktiv etwas zur Community beitragen.
-- **Organic Maps:** Weitere Open-Source-Navigations-App basierend auf OpenStreetMap Daten.
+- **CoMaps:** Fork/Weiterentwicklung von Organic Maps, basiert auf OpenStreetMap, dadurch extrem viele verfügbare Informationen. Recht einfache, übersichtliche Bedienung. Außerdem lassen sich nicht kategorisierte Orte einfach hinzufügen. Nach einiger Zeit erscheinen sie dann auf der großen OpenStreetMap-Karte. So kann man aktiv etwas zur Community beitragen.
+- **OsmAnd:** Längst etablierte Karten-App mit quasi unbegrenztem Funktionsumfang. Ersetzt zwar nicht Google Maps, ist aber extrem praktisch für Wanderungen und Abenteuer – so kann man z. B. im Umkreis nach eingetragenen Trinkwasserquellen oder Unterständen suchen. Anfangs wirkt die App durch die vielen Features überladen, hat man sich erst einmal eingearbeitet, bietet sie aber eine Vielzahl praktischer Funktionen.
+- **Magic Earth:** Nicht Open Source, aber mit Datenschutz-Fokus. Vorinstalliert auf /e/OS/, da es aktuell keine bessere Alternative gibt. 
 
 ## Öffentlicher Verkehr
 - **Öffi** Sehr gute Übersicht über Fahrpläne des öffentlichen Verkehrs.
