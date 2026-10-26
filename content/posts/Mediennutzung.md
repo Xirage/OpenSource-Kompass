@@ -9,6 +9,7 @@ title = "Mediennutzung"
 ## Social Media
 - **AntennaPod**: Die ideale Podcast-App. So sollte Social Media funktionieren: Jeder kann seinen eigenen Podcast auf einem Server betreiben und über das offene RSS-Format werden neue Folgen in der App automatisch abgerufen. Der Empfang ist dadurch vollständig unabhängig von einer zentralen Plattform, ganz ohne Algorithmus, der entscheidet, was du zu sehen bekommst.
 - **NewPipe:** Durchsucht YouTube und zeigt Videos ohne Werbung mit zusätzlichen Einstellungsmöglichkeiten an. (3-fache Geschwindigkeit, Download, Abspielen im Hintergrund) Unterstützt auch SoundCloud, PeerTube und andere Plattformen.
+- **PipePipe:** Fork/Weiterentwicklung von Newpipe. Hat zu den Funktionalitäten von Newpipe noch weitere, wie das automatische Überspringen von Werbeblocks oder das verstecken von Videovorschlägen.
 - **Feeder:** Simpler RSS Reader
 - **FreeTube:** Ermöglicht das Anschauen von YouTube-Videos mit gutem Datenschutz auf dem PC.
 - **Fediverse (basierend auf ActivityPub):** Die Grundlage offener, dezentraler Social Media. Zusammenschluss voneinander unabhängiger sozialer Netzwerke die basierend auf dem Protokoll ActivityPub miteinander kommunizieren können (Apps sind z. B. Mastodon, PeerTube, Pixelfed, Lemmy). Wie Matrix oder Mail kann jeder seinen eigenen Server betreiben und ist damit komplett unabhängig von großen Firmen.

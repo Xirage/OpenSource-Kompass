@@ -8,7 +8,7 @@ title = "Kommunikation"
 
 ## E-Mail-Clients
 - **Thunderbird:** Sehr guter E-Mail-Client für PC und Handy.
-- **Mail:** Einfacher E-Mail-Client, auf /e/OS/ vorinstalliert.
+- **K3-Mail:** Einfacher E-Mail-Client, auf /e/OS/ vorinstalliert.
 
 ## E-Mail-Anbieter
 - **Proton:** Open-Source-Anbieter für E-Mail, Drive und VPN.

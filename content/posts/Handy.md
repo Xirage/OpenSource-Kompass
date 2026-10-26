@@ -8,7 +8,7 @@ title = "Handy"
 - **GrapheneOS:** Sehr datenschutzfokussiertes Betriebssystem (basiert auch auf AOSP).
 
 ## App Download
-- **F-Droid:** Der "OG" der Open-Source-App-Stores. Hier findet man die meisten Open-Source-Apps.
+- **F-Droid:** Der "OG" der Open-Source-App-Stores. Hier findet man die meisten Open-Source-Apps. (Mittlerweile wurde mit V2 ein moderneres Design veröffentlicht)
 - **NeoStore:** Eine Weiterentwicklung von F-Droid, die zusätzlich andere Pakete (z. B. Signal) anbietet und gleichzeitig alles von F-Droid enthält. Das moderne Design ist ein großer Pluspunkt. Zudem werden regelmäßig neue Apps vorgeschlagen – so habe ich schon viele interessante Entdeckungen gemacht.
 - **Aurora Store:** Unoffizieller Open-Source-Client für Google Play, um alle Apps herunterzuladen, die auch im Google Play Store verfügbar sind.
-- **App Lounge:** Interner AppStore von /e/OS/, hat Ähnlichkeiten zum Aurora Store
+- **App Lounge:** Interner AppStore von /e/OS/, versucht Apps aus dem Play Store und F-Droid in einem zu kombinieren. War in der Vergangenheit manchmal etwas instabil. 

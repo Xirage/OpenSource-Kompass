@@ -10,7 +10,7 @@ title = "Navigation"
 ## Navigieren
 - **CoMaps:** Fork/Weiterentwicklung von Organic Maps, basiert auf OpenStreetMap, dadurch extrem viele verfügbare Informationen. Recht einfache, übersichtliche Bedienung. Außerdem lassen sich nicht kategorisierte Orte einfach hinzufügen. Nach einiger Zeit erscheinen sie dann auf der großen OpenStreetMap-Karte. So kann man aktiv etwas zur Community beitragen.
 - **OsmAnd:** Längst etablierte Karten-App mit quasi unbegrenztem Funktionsumfang. Ersetzt zwar nicht Google Maps, ist aber extrem praktisch für Wanderungen und Abenteuer – so kann man z. B. im Umkreis nach eingetragenen Trinkwasserquellen oder Unterständen suchen. Anfangs wirkt die App durch die vielen Features überladen, hat man sich erst einmal eingearbeitet, bietet sie aber eine Vielzahl praktischer Funktionen.
-- **Magic Earth:** Nicht Open Source, aber mit Datenschutz-Fokus. Vorinstalliert auf /e/OS/, da es aktuell keine bessere Alternative gibt. 
+- **Magic Earth:** Nicht Open Source, aber mit Datenschutz-Fokus. Vorinstalliert auf /e/OS/.
 
 ## Öffentlicher Verkehr
 - **Öffi** Sehr gute Übersicht über Fahrpläne des öffentlichen Verkehrs.

@@ -9,8 +9,8 @@ rein privat ist. Statt deiner Privatadresse kannst du eine c/o-/Impressum-Adress
 zeigen willst. Ein Postfach allein reicht rechtlich NICHT aus.
 -->
 
-**Angaben gemäß § 5 DDG**
-
-**Kontakt**
-
-**Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV**
+## Verantwortlicher
+Maximilian Geiger
+Eggenreuther Weg 3
+91508 Erlangen
+geiger-max@mailbox.org

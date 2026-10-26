@@ -13,9 +13,6 @@ title = "Produktivität"
 
 ## Dinge erschaffen
 - **Logseq:** Eine herausragende Notiz-App (Alternative zu Obsidian), die nach dem Zettelkastenprinzip und mit täglichen Journals ein "zweites Gehirn" ermöglicht. Alle Notizen werden lokal in Markdown-Dateien (.md) gespeichert – universell lesbar und bearbeitbar. Maximaler Datenschutz durch lokale Speicherung, Synchronisation z. B. mit Syncthing möglich.
-- **VS-Codium:** Open-Source-Version von Visual Studio Code. So gut wie alle Funktionen, aber komplett Open Source.
-- **Acode:** Code-Editor fürs Handy, ähnlich wie VS-Codium.
-- **Codeberg:** Deutsche non-profit Alternative zu Github. Auch diese Website läuft über Codeberg.
 - **LibreOffice:** Erfolgreiches Open-Source-Projekt, das alle Funktionen von Microsoft Office bietet.
 - **Collabora Office:** App für den Zugriff am Handy auf Office-Dateien.
 - **Excalidraw:** Intuitives Online-Tool zum schnellen Erstellen schöner Zeichnungen. *(Der Übersichtsbaum auf der Startseite wurde damit erstellt.)*
@@ -24,8 +21,17 @@ title = "Produktivität"
 - **GIMP:** Leistungsstarke Bildbearbeitungssoftware.
 
 ---
+
+## Coding und Websites
+- **VS-Codium:** Open-Source-Version von Visual Studio Code. So gut wie alle Funktionen, aber komplett Open Source.
+- **Acode:** Code-Editor fürs Handy, ähnlich wie VS-Codium.
+- **Codeberg:** Deutsche non-profit Alternative zu Github. Auch diese Website läuft über Codeberg.
+- **GoatCounter:** Open-Source Software um Datenschutzfreundlich die Aufrufzahlen einer Website zu tracken.
+
+---
 ## Verschiedenes
 - **Loop Habit Tracker:** Einfacher, aber effektiver Habit-Tracker.
 - **Stepsy:** App zum Zählen von Schritten.
 - **Anki:** Eine der besten Flashcard-Apps und wissenschaftlich fundierte Methode, um Neues zu lernen.
 - **Open Reads:** Schöne Offline-App, um gelesene Bücher zu tracken.
+- **Website-Limiter:** Chrome-Erweiterung, mit der sich Websites (z. B. YouTube) zu bestimmten Tageszeiten sperren und ein tägliches Nutzungslimit festlegen lassen. (Von mir selbst entwickelt, Link: https://chromewebstore.google.com/detail/website-limiter/iidliadbfnfcejkllldfefknbejjcjbk)
