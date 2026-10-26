@@ -11,6 +11,4 @@ zeigen willst. Ein Postfach allein reicht rechtlich NICHT aus.
 
 ## Verantwortlicher
 Maximilian Geiger
-Eggenreuther Weg 3
-91508 Erlangen
 geiger-max@mailbox.org
